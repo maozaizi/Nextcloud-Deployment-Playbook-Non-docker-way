@@ -1,5 +1,6 @@
 # Nextcloud-Deployment-Playbook-Non-docker-way
 
+特别感谢  [Carsten Rieger IT Services](https://www.c-rieger.de/cloud-und-konferenzsysteme/) 。本文是基于 [Carsten Rieger](https://www.c-rieger.de/author/carsten/) 所分享得 [Nextcloud Installationsanleitung](https://www.c-rieger.de/nextcloud-installationsanleitung/)
 
 这份 Nextcloud 25 安装指南描述了如何在 Ubuntu 20.04 LTS focal、22.04 LTS jammy（x86-64）服务器上安装、配置、硬化、监控和扩展 Nextcloud 25。
 
